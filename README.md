@@ -1,3 +1,4 @@
+![logo](https://github.com/Kirandeep0036/Kirandeep0036/blob/main/Banner.jpg)
 <h1 align="center">
 	Hi 👋, I'm Kirandeep Singh
 </h1>
